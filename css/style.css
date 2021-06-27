@@ -68,7 +68,7 @@ header {
 
 .form-group label {
     margin-bottom: 4px;
-    font-size: 18;
+    font-size: 18px;
     font-weight: lighter;
 }
 
@@ -96,8 +96,8 @@ input[type='date'] {
     color: black;
     font-size: 24px;
     font-weight: 900;
-    margin-top: auto;
-    align-self: flex-end;
+    margin-top: 16px;
+    align-self: flex-start;
     cursor: pointer;
 }
 
@@ -184,6 +184,10 @@ input[type='date'],
     }
 
     .form {
+        width: 100%;
+    }
+
+    .form-group input {
         width: 100%;
     }
 }
