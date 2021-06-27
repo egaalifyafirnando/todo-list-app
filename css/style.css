@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #f8f9fa;
+    background-color: #e2e8f0;
 }
 
 header {
@@ -78,7 +78,7 @@ header {
 
 input[type='text'],
 input[type='date'] {
-    background: #f8f9fa;
+    background: #e2e8f0;
     border-radius: 16px;
     border: none;
     padding: 16px;
@@ -88,7 +88,7 @@ input[type='date'] {
 }
 
 .btn-submit {
-    background: #f8f9fa;
+    background: #e2e8f0;
     width: fit-content;
     border: none;
     border-radius: 16px;
