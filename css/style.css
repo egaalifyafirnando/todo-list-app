@@ -72,11 +72,6 @@ header {
     font-weight: lighter;
 }
 
-/* .shadow {
-    box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
-        0 15px 40px rgba(166, 173, 201, 0.2);
-} */
-
 .shadow {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
